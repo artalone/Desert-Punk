@@ -1,0 +1,3 @@
+﻿Texture.obj : error LNK2019: unresolved external symbol SOIL_load_OGL_texture referenced in function "public: __cdecl Texture::Texture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Texture@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Engine\Graphics\SOIL\lib\SOIL.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\MATERI KULIAH\Smt 6\PGAME\LetsMakeAGame-master\x64\Debug\Twitch.exe : fatal error LNK1120: 1 unresolved externals
